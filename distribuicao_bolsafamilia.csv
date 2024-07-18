@@ -1,0 +1,1540 @@
+﻿_id,co_uf,no_uf,ano,variavel,social_categoria,social_subcategoria,valor
+1,11,RO,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,844.47
+2,11,RO,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,54942.0
+3,11,RO,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,25040014.0
+4,11,RO,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,753.31
+5,11,RO,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,68343.0
+6,11,RO,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,45377721.0
+7,11,RO,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,746.48
+8,11,RO,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,94953.0
+9,11,RO,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,64203055.0
+10,11,RO,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,839.86
+11,11,RO,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,97270.0
+12,11,RO,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,80523336.0
+13,11,RO,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,994.74
+14,11,RO,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,92914.0
+15,11,RO,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,95337594.0
+16,11,RO,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1086.45
+17,11,RO,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,116211.0
+18,11,RO,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,117490447.0
+19,11,RO,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1164.47
+20,11,RO,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,114112.0
+21,11,RO,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,134018952.0
+22,11,RO,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1366.56
+23,11,RO,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,112976.0
+24,11,RO,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,151643438.0
+25,11,RO,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1575.44
+26,11,RO,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,117806.0
+27,11,RO,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,181188534.0
+28,11,RO,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1734.62
+29,11,RO,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,117832.0
+30,11,RO,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,201070260.0
+31,11,RO,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1809.78
+32,11,RO,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,114170.0
+33,11,RO,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,209862805.0
+34,11,RO,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1809.66
+35,11,RO,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,105855.0
+36,11,RO,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,198448489.0
+37,11,RO,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1803.15
+38,11,RO,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,93533.0
+39,11,RO,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,177249923.0
+40,11,RO,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1802.76
+41,11,RO,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,83334.0
+42,11,RO,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,154803120.0
+43,11,RO,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1809.86
+44,11,RO,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,81759.0
+45,11,RO,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,149662299.0
+46,11,RO,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1844.89
+47,11,RO,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,71216.0
+48,11,RO,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,142760771.0
+49,11,RO,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,555.27
+50,11,RO,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,81853.0
+51,11,RO,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,42423061.0
+52,11,RO,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,790.3
+53,11,RO,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,84545.0
+54,11,RO,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,66084676.0
+55,11,RO,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3483.73
+56,11,RO,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,127225.0
+57,11,RO,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,436468031.0
+58,12,AC,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,864.19
+59,12,AC,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,28851.0
+60,12,AC,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,19531210.0
+61,12,AC,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,833.07
+62,12,AC,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,38908.0
+63,12,AC,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,26342050.0
+64,12,AC,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,791.63
+65,12,AC,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,53404.0
+66,12,AC,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,38578165.0
+67,12,AC,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,884.47
+68,12,AC,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,57354.0
+69,12,AC,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,47426879.0
+70,12,AC,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1067.23
+71,12,AC,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,55037.0
+72,12,AC,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,60563878.0
+73,12,AC,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1195.3
+74,12,AC,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,62600.0
+75,12,AC,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,70480788.0
+76,12,AC,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1302.64
+77,12,AC,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,59779.0
+78,12,AC,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,77746624.0
+79,12,AC,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1545.85
+80,12,AC,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,56256.0
+81,12,AC,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,89185536.0
+82,12,AC,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1946.86
+83,12,AC,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,70769.0
+84,12,AC,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,131235840.0
+85,12,AC,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2442.45
+86,12,AC,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,78050.0
+87,12,AC,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,176948772.0
+88,12,AC,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2690.41
+89,12,AC,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,78561.0
+90,12,AC,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,211937759.0
+91,12,AC,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2834.64
+92,12,AC,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,80803.0
+93,12,AC,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,223457560.0
+94,12,AC,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2951.85
+95,12,AC,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,82795.0
+96,12,AC,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,247542727.0
+97,12,AC,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3108.16
+98,12,AC,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,86076.0
+99,12,AC,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,260853784.0
+100,12,AC,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3135.72
+101,12,AC,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,90330.0
+102,12,AC,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,275327547.0
+103,12,AC,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3219.47
+104,12,AC,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,86987.0
+105,12,AC,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,287938637.0
+106,12,AC,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1118.5
+107,12,AC,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,90737.0
+108,12,AC,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,97873134.0
+109,12,AC,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2032.39
+110,12,AC,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,90888.0
+111,12,AC,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,184403807.0
+112,12,AC,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3630.01
+113,12,AC,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,128083.0
+114,12,AC,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,463983893.0
+115,13,AM,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,907.49
+116,13,AM,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,104135.0
+117,13,AM,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,67545759.0
+118,13,AM,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,870.05
+119,13,AM,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,147266.0
+120,13,AM,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,103635883.0
+121,13,AM,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,827.41
+122,13,AM,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,204075.0
+123,13,AM,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,153300149.0
+124,13,AM,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,909.02
+125,13,AM,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,216487.0
+126,13,AM,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,192924893.0
+127,13,AM,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1090.25
+128,13,AM,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,222542.0
+129,13,AM,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,242908837.0
+130,13,AM,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1209.7
+131,13,AM,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,263064.0
+132,13,AM,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,297805814.0
+133,13,AM,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1309.38
+134,13,AM,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,278893.0
+135,13,AM,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,363029883.0
+136,13,AM,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1531.55
+137,13,AM,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,307276.0
+138,13,AM,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,453135908.0
+139,13,AM,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1827.31
+140,13,AM,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,332516.0
+141,13,AM,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,592418676.0
+142,13,AM,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2150.4
+143,13,AM,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,358836.0
+144,13,AM,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,725029658.0
+145,13,AM,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2326.9
+146,13,AM,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,358516.0
+147,13,AM,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,838659333.0
+148,13,AM,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2444.13
+149,13,AM,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,362009.0
+150,13,AM,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,871084574.0
+151,13,AM,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2556.75
+152,13,AM,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,370487.0
+153,13,AM,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,948077427.0
+154,13,AM,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2693.17
+155,13,AM,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,386832.0
+156,13,AM,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1015626200.0
+157,13,AM,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2715.31
+158,13,AM,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,408675.0
+159,13,AM,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1085790134.0
+160,13,AM,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2757.76
+161,13,AM,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,387230.0
+162,13,AM,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1106537055.0
+163,13,AM,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,897.95
+164,13,AM,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,410417.0
+165,13,AM,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,350816544.0
+166,13,AM,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1545.93
+167,13,AM,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,405104.0
+168,13,AM,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,627969353.0
+169,13,AM,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3590.68
+170,13,AM,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,618809.0
+171,13,AM,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2190230302.0
+172,14,RR,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,885.29
+173,14,RR,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,14522.0
+174,14,RR,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,8357672.0
+175,14,RR,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,833.08
+176,14,RR,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,17583.0
+177,14,RR,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,12849960.0
+178,14,RR,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,830.82
+179,14,RR,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,31850.0
+180,14,RR,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,21979343.0
+181,14,RR,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,906.46
+182,14,RR,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,32344.0
+183,14,RR,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,28809074.0
+184,14,RR,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1104.26
+185,14,RR,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,33622.0
+186,14,RR,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,37135525.0
+187,14,RR,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1217.87
+188,14,RR,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,41201.0
+189,14,RR,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,48064116.0
+190,14,RR,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1312.55
+191,14,RR,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,42213.0
+192,14,RR,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,54983920.0
+193,14,RR,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1524.43
+194,14,RR,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,45574.0
+195,14,RR,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,68796356.0
+196,14,RR,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1764.91
+197,14,RR,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,47303.0
+198,14,RR,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,82008674.0
+199,14,RR,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2003.42
+200,14,RR,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,46713.0
+201,14,RR,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,92971784.0
+202,14,RR,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2168.0
+203,14,RR,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,48104.0
+204,14,RR,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,102887180.0
+205,14,RR,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2245.2
+206,14,RR,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,46814.0
+207,14,RR,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,106471360.0
+208,14,RR,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2319.42
+209,14,RR,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,47224.0
+210,14,RR,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,113115552.0
+211,14,RR,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2462.7
+212,14,RR,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,43430.0
+213,14,RR,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,112091876.0
+214,14,RR,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2465.89
+215,14,RR,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,47997.0
+216,14,RR,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,114491446.0
+217,14,RR,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2533.83
+218,14,RR,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,44067.0
+219,14,RR,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,120047248.0
+220,14,RR,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,917.8
+221,14,RR,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,52280.0
+222,14,RR,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,42347245.0
+223,14,RR,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1480.8
+224,14,RR,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,51583.0
+225,14,RR,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,76588648.0
+226,14,RR,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3660.63
+227,14,RR,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,68501.0
+228,14,RR,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,245865525.0
+229,15,PA,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,915.05
+230,15,PA,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,259641.0
+231,15,PA,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,162275823.0
+232,15,PA,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,851.67
+233,15,PA,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,337694.0
+234,15,PA,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,244861702.0
+235,15,PA,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,828.97
+236,15,PA,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,506444.0
+237,15,PA,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,370230625.0
+238,15,PA,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,919.88
+239,15,PA,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,532755.0
+240,15,PA,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,482918640.0
+241,15,PA,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1101.83
+242,15,PA,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,528997.0
+243,15,PA,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,591852085.0
+244,15,PA,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1205.46
+245,15,PA,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,635204.0
+246,15,PA,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,714241108.0
+247,15,PA,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1285.27
+248,15,PA,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,680804.0
+249,15,PA,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,860577255.0
+250,15,PA,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1487.11
+251,15,PA,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,772279.0
+252,15,PA,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1065831631.0
+253,15,PA,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1724.59
+254,15,PA,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,813367.0
+255,15,PA,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1374529852.0
+256,15,PA,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2011.8
+257,15,PA,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,860572.0
+258,15,PA,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1658481264.0
+259,15,PA,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2151.43
+260,15,PA,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,887426.0
+261,15,PA,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1896916071.0
+262,15,PA,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2224.7
+263,15,PA,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,890127.0
+264,15,PA,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1957280555.0
+265,15,PA,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2295.9
+266,15,PA,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,898914.0
+267,15,PA,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2085567476.0
+268,15,PA,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2386.18
+269,15,PA,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,931009.0
+270,15,PA,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2172358455.0
+271,15,PA,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2383.12
+272,15,PA,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,966673.0
+273,15,PA,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2266243343.0
+274,15,PA,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2412.18
+275,15,PA,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,925135.0
+276,15,PA,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2315600915.0
+277,15,PA,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,763.46
+278,15,PA,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,965697.0
+279,15,PA,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,710491114.0
+280,15,PA,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1236.13
+281,15,PA,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,963091.0
+282,15,PA,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1189654016.0
+283,15,PA,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3473.62
+284,15,PA,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,1333699.0
+285,15,PA,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,4455197364.0
+286,16,AP,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,912.76
+287,16,AP,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,10256.0
+288,16,AP,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,8047007.0
+289,16,AP,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,843.57
+290,16,AP,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,11429.0
+291,16,AP,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,9144688.0
+292,16,AP,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,807.15
+293,16,AP,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,26244.0
+294,16,AP,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,14875734.0
+295,16,AP,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,900.58
+296,16,AP,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,38505.0
+297,16,AP,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,29594606.0
+298,16,AP,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1100.18
+299,16,AP,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,39191.0
+300,16,AP,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,43733436.0
+301,16,AP,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1229.94
+302,16,AP,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,44678.0
+303,16,AP,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,52577974.0
+304,16,AP,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1336.4
+305,16,AP,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,44096.0
+306,16,AP,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,60244984.0
+307,16,AP,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1572.56
+308,16,AP,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,50831.0
+309,16,AP,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,78132944.0
+310,16,AP,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1856.52
+311,16,AP,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,53417.0
+312,16,AP,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,97187278.0
+313,16,AP,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2163.13
+314,16,AP,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,53608.0
+315,16,AP,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,114252000.0
+316,16,AP,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2313.85
+317,16,AP,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,55527.0
+318,16,AP,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,125823850.0
+319,16,AP,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2363.52
+320,16,AP,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,60768.0
+321,16,AP,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,134603369.0
+322,16,AP,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2401.55
+323,16,AP,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,62371.0
+324,16,AP,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,150755264.0
+325,16,AP,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2538.36
+326,16,AP,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,69704.0
+327,16,AP,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,167055910.0
+328,16,AP,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2593.96
+329,16,AP,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,77108.0
+330,16,AP,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,193100959.0
+331,16,AP,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2679.53
+332,16,AP,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,75123.0
+333,16,AP,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,207172664.0
+334,16,AP,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,861.18
+335,16,AP,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,76700.0
+336,16,AP,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,64545817.0
+337,16,AP,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1452.8
+338,16,AP,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,75688.0
+339,16,AP,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,110277548.0
+340,16,AP,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3550.48
+341,16,AP,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,122110.0
+342,16,AP,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,430822008.0
+343,17,TO,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,875.5
+344,17,TO,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,55305.0
+345,17,TO,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,34123705.0
+346,17,TO,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,791.43
+347,17,TO,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,76421.0
+348,17,TO,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,49217044.0
+349,17,TO,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,733.31
+350,17,TO,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,106537.0
+351,17,TO,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,70655870.0
+352,17,TO,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,810.86
+353,17,TO,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,106921.0
+354,17,TO,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,86254909.0
+355,17,TO,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,974.15
+356,17,TO,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,103582.0
+357,17,TO,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,103330013.0
+358,17,TO,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1057.24
+359,17,TO,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,122609.0
+360,17,TO,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,120509963.0
+361,17,TO,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1130.71
+362,17,TO,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,128432.0
+363,17,TO,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,144195247.0
+364,17,TO,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1340.88
+365,17,TO,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,131735.0
+366,17,TO,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,174011530.0
+367,17,TO,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1614.45
+368,17,TO,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,139690.0
+369,17,TO,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,218900702.0
+370,17,TO,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1896.02
+371,17,TO,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,140065.0
+372,17,TO,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,259615380.0
+373,17,TO,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2008.63
+374,17,TO,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,139295.0
+375,17,TO,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,281369311.0
+376,17,TO,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2052.07
+377,17,TO,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,136650.0
+378,17,TO,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,278799488.0
+379,17,TO,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2093.63
+380,17,TO,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,129813.0
+381,17,TO,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,281348507.0
+382,17,TO,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2165.39
+383,17,TO,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,125489.0
+384,17,TO,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,270063198.0
+385,17,TO,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2199.28
+386,17,TO,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,121439.0
+387,17,TO,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,270890330.0
+388,17,TO,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2277.96
+389,17,TO,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,109698.0
+390,17,TO,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,264937688.0
+391,17,TO,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,741.23
+392,17,TO,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,118870.0
+393,17,TO,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,83120137.0
+394,17,TO,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1172.72
+395,17,TO,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,121879.0
+396,17,TO,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,141719089.0
+397,17,TO,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3513.08
+398,17,TO,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,157855.0
+399,17,TO,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,546125704.0
+400,21,MA,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,909.35
+401,21,MA,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,380742.0
+402,21,MA,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,272001169.0
+403,21,MA,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,866.52
+404,21,MA,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,532126.0
+405,21,MA,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,373620218.0
+406,21,MA,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,834.53
+407,21,MA,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,706878.0
+408,21,MA,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,540255598.0
+409,21,MA,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,914.11
+410,21,MA,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,737539.0
+411,21,MA,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,664518268.0
+412,21,MA,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1087.36
+413,21,MA,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,729610.0
+414,21,MA,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,802131232.0
+415,21,MA,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1182.3
+416,21,MA,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,846345.0
+417,21,MA,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,943841215.0
+418,21,MA,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1251.97
+419,21,MA,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,871297.0
+420,21,MA,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1089091298.0
+421,21,MA,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1434.86
+422,21,MA,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,919975.0
+423,21,MA,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1296049020.0
+424,21,MA,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1691.83
+425,21,MA,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,951611.0
+426,21,MA,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1587398372.0
+427,21,MA,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2072.79
+428,21,MA,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,962011.0
+429,21,MA,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1961536178.0
+430,21,MA,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2226.87
+431,21,MA,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,985136.0
+432,21,MA,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2176773672.0
+433,21,MA,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2304.26
+434,21,MA,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,952131.0
+435,21,MA,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2229141847.0
+436,21,MA,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2400.35
+437,21,MA,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,951942.0
+438,21,MA,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2313161106.0
+439,21,MA,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2506.29
+440,21,MA,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,982450.0
+441,21,MA,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2412820783.0
+442,21,MA,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2530.59
+443,21,MA,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,984380.0
+444,21,MA,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2493688352.0
+445,21,MA,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2579.77
+446,21,MA,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,927651.0
+447,21,MA,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2476154772.0
+448,21,MA,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,852.36
+449,21,MA,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,961854.0
+450,21,MA,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,794934753.0
+451,21,MA,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1369.6
+452,21,MA,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,971425.0
+453,21,MA,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1321239057.0
+454,21,MA,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3477.84
+455,21,MA,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,1217164.0
+456,21,MA,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,4061256777.0
+457,22,PI,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,887.99
+458,22,PI,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,217931.0
+459,22,PI,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,156971474.0
+460,22,PI,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,834.22
+461,22,PI,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,284297.0
+462,22,PI,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,201620550.0
+463,22,PI,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,800.22
+464,22,PI,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,366906.0
+465,22,PI,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,266100304.0
+466,22,PI,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,869.56
+467,22,PI,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,368612.0
+468,22,PI,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,320210898.0
+469,22,PI,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1029.51
+470,22,PI,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,360622.0
+471,22,PI,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,378091695.0
+472,22,PI,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1116.36
+473,22,PI,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,413867.0
+474,22,PI,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,433021424.0
+475,22,PI,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1184.16
+476,22,PI,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,420392.0
+477,22,PI,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,494678237.0
+478,22,PI,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1341.51
+479,22,PI,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,444699.0
+480,22,PI,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,588808798.0
+481,22,PI,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1587.6
+482,22,PI,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,455182.0
+483,22,PI,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,711762091.0
+484,22,PI,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2014.52
+485,22,PI,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,451195.0
+486,22,PI,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,903263807.0
+487,22,PI,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2180.39
+488,22,PI,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,456811.0
+489,22,PI,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,989972080.0
+490,22,PI,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2258.14
+491,22,PI,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,443346.0
+492,22,PI,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1010592720.0
+493,22,PI,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2344.47
+494,22,PI,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,435418.0
+495,22,PI,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1052950326.0
+496,22,PI,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2448.48
+497,22,PI,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,444635.0
+498,22,PI,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1073289077.0
+499,22,PI,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2470.72
+500,22,PI,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,454598.0
+501,22,PI,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1113458060.0
+502,22,PI,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2525.76
+503,22,PI,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,437844.0
+504,22,PI,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1134584950.0
+505,22,PI,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,764.66
+506,22,PI,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,453550.0
+507,22,PI,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,334853848.0
+508,22,PI,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1347.4
+509,22,PI,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,460397.0
+510,22,PI,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,615332352.0
+511,22,PI,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3370.69
+512,22,PI,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,614105.0
+513,22,PI,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2056037709.0
+514,23,CE,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,860.83
+515,23,CE,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,572730.0
+516,23,CE,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,399472576.0
+517,23,CE,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,821.1
+518,23,CE,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,742454.0
+519,23,CE,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,519471343.0
+520,23,CE,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,774.74
+521,23,CE,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,882220.0
+522,23,CE,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,650956446.0
+523,23,CE,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,845.26
+524,23,CE,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,891418.0
+525,23,CE,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,749617542.0
+526,23,CE,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1000.59
+527,23,CE,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,870153.0
+528,23,CE,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,891827792.0
+529,23,CE,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1093.94
+530,23,CE,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,947720.0
+531,23,CE,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1008130971.0
+532,23,CE,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1167.15
+533,23,CE,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,1022259.0
+534,23,CE,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1174401644.0
+535,23,CE,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1328.54
+536,23,CE,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,1076628.0
+537,23,CE,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1393899428.0
+538,23,CE,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1543.63
+539,23,CE,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,1107009.0
+540,23,CE,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1682212386.0
+541,23,CE,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1817.66
+542,23,CE,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,1095316.0
+543,23,CE,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1974026187.0
+544,23,CE,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1933.58
+545,23,CE,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,1089813.0
+546,23,CE,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2119820489.0
+547,23,CE,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1984.46
+548,23,CE,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,1075853.0
+549,23,CE,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2121100420.0
+550,23,CE,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2038.31
+551,23,CE,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,1042087.0
+552,23,CE,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2148374535.0
+553,23,CE,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2143.43
+554,23,CE,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,1041377.0
+555,23,CE,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2181953826.0
+556,23,CE,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2195.13
+557,23,CE,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,1067409.0
+558,23,CE,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2316889230.0
+559,23,CE,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2266.61
+560,23,CE,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,1014628.0
+561,23,CE,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2373396667.0
+562,23,CE,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,665.87
+563,23,CE,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,1085050.0
+564,23,CE,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,678046010.0
+565,23,CE,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1085.93
+566,23,CE,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,1103697.0
+567,23,CE,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1186159980.0
+568,23,CE,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3360.69
+569,23,CE,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,1477508.0
+570,23,CE,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,4996050760.0
+571,24,RN,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,834.07
+572,24,RN,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,190116.0
+573,24,RN,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,121690884.0
+574,24,RN,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,787.61
+575,24,RN,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,240828.0
+576,24,RN,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,162987685.0
+577,24,RN,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,742.07
+578,24,RN,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,298643.0
+579,24,RN,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,207027636.0
+580,24,RN,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,808.71
+581,24,RN,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,302720.0
+582,24,RN,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,243606645.0
+583,24,RN,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,964.18
+584,24,RN,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,292522.0
+585,24,RN,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,288424121.0
+586,24,RN,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1058.38
+587,24,RN,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,321710.0
+588,24,RN,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,330812114.0
+589,24,RN,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1142.92
+590,24,RN,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,338424.0
+591,24,RN,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,383736583.0
+592,24,RN,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1309.59
+593,24,RN,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,349608.0
+594,24,RN,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,447792800.0
+595,24,RN,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1520.78
+596,24,RN,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,364751.0
+597,24,RN,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,543066280.0
+598,24,RN,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1779.33
+599,24,RN,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,361550.0
+600,24,RN,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,637742452.0
+601,24,RN,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1913.52
+602,24,RN,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,362805.0
+603,24,RN,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,693467871.0
+604,24,RN,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1970.33
+605,24,RN,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,356405.0
+606,24,RN,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,700193440.0
+607,24,RN,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2027.47
+608,24,RN,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,343838.0
+609,24,RN,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,715637136.0
+610,24,RN,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2122.73
+611,24,RN,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,345007.0
+612,24,RN,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,719679672.0
+613,24,RN,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2169.33
+614,24,RN,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,357062.0
+615,24,RN,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,759785887.0
+616,24,RN,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2246.03
+617,24,RN,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,339308.0
+618,24,RN,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,788541911.0
+619,24,RN,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,669.95
+620,24,RN,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,363563.0
+621,24,RN,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,228274570.0
+622,24,RN,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1109.89
+623,24,RN,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,370049.0
+624,24,RN,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,406197165.0
+625,24,RN,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3346.79
+626,24,RN,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,503878.0
+627,24,RN,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1689746616.0
+628,25,PB,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,865.16
+629,25,PB,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,273135.0
+630,25,PB,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,180295664.0
+631,25,PB,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,816.02
+632,25,PB,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,337001.0
+633,25,PB,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,240156550.0
+634,25,PB,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,780.61
+635,25,PB,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,406904.0
+636,25,PB,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,300484368.0
+637,25,PB,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,855.56
+638,25,PB,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,416863.0
+639,25,PB,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,354791990.0
+640,25,PB,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1014.7
+641,25,PB,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,410707.0
+642,25,PB,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,420649317.0
+643,25,PB,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1099.64
+644,25,PB,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,444729.0
+645,25,PB,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,477101969.0
+646,25,PB,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1171.14
+647,25,PB,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,450525.0
+648,25,PB,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,529979555.0
+649,25,PB,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1329.55
+650,25,PB,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,487803.0
+651,25,PB,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,633403412.0
+652,25,PB,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1554.29
+653,25,PB,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,506234.0
+654,25,PB,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,773695346.0
+655,25,PB,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1880.44
+656,25,PB,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,506450.0
+657,25,PB,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,941564574.0
+658,25,PB,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2044.14
+659,25,PB,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,524967.0
+660,25,PB,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1061119422.0
+661,25,PB,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2137.51
+662,25,PB,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,506704.0
+663,25,PB,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1098208794.0
+664,25,PB,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2233.16
+665,25,PB,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,502914.0
+666,25,PB,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1157053660.0
+667,25,PB,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2338.63
+668,25,PB,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,514017.0
+669,25,PB,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1180933013.0
+670,25,PB,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2374.31
+671,25,PB,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,524408.0
+672,25,PB,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1225647739.0
+673,25,PB,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2421.29
+674,25,PB,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,502403.0
+675,25,PB,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1248596120.0
+676,25,PB,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,736.13
+677,25,PB,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,519755.0
+678,25,PB,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,370135087.0
+679,25,PB,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1267.21
+680,25,PB,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,523720.0
+681,25,PB,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,659966885.0
+682,25,PB,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3365.37
+683,25,PB,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,686443.0
+684,25,PB,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2295475191.0
+685,26,PE,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,843.32
+686,26,PE,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,518956.0
+687,26,PE,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,304053138.0
+688,26,PE,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,793.24
+689,26,PE,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,633500.0
+690,26,PE,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,442466890.0
+691,26,PE,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,765.91
+692,26,PE,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,860546.0
+693,26,PE,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,599409419.0
+694,26,PE,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,844.06
+695,26,PE,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,905919.0
+696,26,PE,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,744508843.0
+697,26,PE,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,998.19
+698,26,PE,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,881591.0
+699,26,PE,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,904677146.0
+700,26,PE,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1092.55
+701,26,PE,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,1035989.0
+702,26,PE,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1062895529.0
+703,26,PE,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1169.25
+704,26,PE,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,1045268.0
+705,26,PE,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1216004851.0
+706,26,PE,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1334.09
+707,26,PE,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,1115981.0
+708,26,PE,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1466134573.0
+709,26,PE,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1523.02
+710,26,PE,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,1151313.0
+711,26,PE,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1726095580.0
+712,26,PE,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1765.35
+713,26,PE,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,1147423.0
+714,26,PE,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2001810016.0
+715,26,PE,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1888.63
+716,26,PE,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,1150879.0
+717,26,PE,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2170678175.0
+718,26,PE,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1956.18
+719,26,PE,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,1116657.0
+720,26,PE,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2199739475.0
+721,26,PE,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2029.51
+722,26,PE,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,1096314.0
+723,26,PE,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2284309513.0
+724,26,PE,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2124.9
+725,26,PE,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,1154573.0
+726,26,PE,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2374111329.0
+727,26,PE,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2150.18
+728,26,PE,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,1178450.0
+729,26,PE,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2489016559.0
+730,26,PE,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2206.34
+731,26,PE,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,1127840.0
+732,26,PE,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2561012986.0
+733,26,PE,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,666.72
+734,26,PE,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,1176110.0
+735,26,PE,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,751522124.0
+736,26,PE,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1052.66
+737,26,PE,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,1191718.0
+738,26,PE,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1243411930.0
+739,26,PE,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3339.28
+740,26,PE,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,1646342.0
+741,26,PE,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,5558245355.0
+742,27,AL,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,877.1
+743,27,AL,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,214726.0
+744,27,AL,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,137724223.0
+745,27,AL,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,820.89
+746,27,AL,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,253745.0
+747,27,AL,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,187942388.0
+748,27,AL,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,769.68
+749,27,AL,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,339921.0
+750,27,AL,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,237778776.0
+751,27,AL,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,840.26
+752,27,AL,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,351402.0
+753,27,AL,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,289229113.0
+754,27,AL,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,995.29
+755,27,AL,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,347585.0
+756,27,AL,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,351696815.0
+757,27,AL,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1101.29
+758,27,AL,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,395459.0
+759,27,AL,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,418051447.0
+760,27,AL,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1185.16
+761,27,AL,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,414112.0
+762,27,AL,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,482955041.0
+763,27,AL,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1367.97
+764,27,AL,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,425094.0
+765,27,AL,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,574287768.0
+766,27,AL,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1592.58
+767,27,AL,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,436270.0
+768,27,AL,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,684449448.0
+769,27,AL,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1860.3
+770,27,AL,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,438656.0
+771,27,AL,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,801449280.0
+772,27,AL,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1978.07
+773,27,AL,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,439655.0
+774,27,AL,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,871570605.0
+775,27,AL,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2044.48
+776,27,AL,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,418405.0
+777,27,AL,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,872275136.0
+778,27,AL,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2133.89
+779,27,AL,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,396054.0
+780,27,AL,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,853968339.0
+781,27,AL,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2231.7
+782,27,AL,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,405105.0
+783,27,AL,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,880053947.0
+784,27,AL,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2268.9
+785,27,AL,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,412116.0
+786,27,AL,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,922689785.0
+787,27,AL,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2328.83
+788,27,AL,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,387195.0
+789,27,AL,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,934749645.0
+790,27,AL,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,712.22
+791,27,AL,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,406800.0
+792,27,AL,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,277849457.0
+793,27,AL,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1161.1
+794,27,AL,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,415817.0
+795,27,AL,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,478058254.0
+796,27,AL,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3418.68
+797,27,AL,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,544739.0
+798,27,AL,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1848185930.0
+799,28,SE,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,872.58
+800,28,SE,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,113147.0
+801,28,SE,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,68581861.0
+802,28,SE,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,812.58
+803,28,SE,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,154332.0
+804,28,SE,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,103978407.0
+805,28,SE,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,785.24
+806,28,SE,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,189304.0
+807,28,SE,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,139480028.0
+808,28,SE,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,874.67
+809,28,SE,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,187470.0
+810,28,SE,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,164180652.0
+811,28,SE,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1044.98
+812,28,SE,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,179875.0
+813,28,SE,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,192078898.0
+814,28,SE,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1131.01
+815,28,SE,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,220175.0
+816,28,SE,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,228065256.0
+817,28,SE,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1196.34
+818,28,SE,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,230418.0
+819,28,SE,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,272641222.0
+820,28,SE,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1362.44
+821,28,SE,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,253124.0
+822,28,SE,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,330596140.0
+823,28,SE,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1555.12
+824,28,SE,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,268330.0
+825,28,SE,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,407888109.0
+826,28,SE,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1769.66
+827,28,SE,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,270941.0
+828,28,SE,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,471592186.0
+829,28,SE,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1851.19
+830,28,SE,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,281231.0
+831,28,SE,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,515810850.0
+832,28,SE,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1887.34
+833,28,SE,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,269296.0
+834,28,SE,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,515941367.0
+835,28,SE,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1932.34
+836,28,SE,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,267362.0
+837,28,SE,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,524631919.0
+838,28,SE,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2005.2
+839,28,SE,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,278772.0
+840,28,SE,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,541722824.0
+841,28,SE,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2014.01
+842,28,SE,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,292319.0
+843,28,SE,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,573259657.0
+844,28,SE,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2047.54
+845,28,SE,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,280015.0
+846,28,SE,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,589398837.0
+847,28,SE,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,615.66
+848,28,SE,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,286867.0
+849,28,SE,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,171739533.0
+850,28,SE,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,935.98
+851,28,SE,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,287136.0
+852,28,SE,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,268159806.0
+853,28,SE,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3338.61
+854,28,SE,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,392016.0
+855,28,SE,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1309763782.0
+856,29,BA,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,864.13
+857,29,BA,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,838963.0
+858,29,BA,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,532684471.0
+859,29,BA,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,820.21
+860,29,BA,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,1067291.0
+861,29,BA,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,751361024.0
+862,29,BA,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,783.95
+863,29,BA,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,1391245.0
+864,29,BA,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1006377304.0
+865,29,BA,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,855.9
+866,29,BA,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,1411662.0
+867,29,BA,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1204402913.0
+868,29,BA,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1011.33
+869,29,BA,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,1372763.0
+870,29,BA,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1423078114.0
+871,29,BA,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1102.16
+872,29,BA,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,1581639.0
+873,29,BA,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1663238830.0
+874,29,BA,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1179.1
+875,29,BA,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,1662069.0
+876,29,BA,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1938969367.0
+877,29,BA,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1338.44
+878,29,BA,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,1752766.0
+879,29,BA,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2261751025.0
+880,29,BA,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1543.82
+881,29,BA,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,1808346.0
+882,29,BA,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2745399558.0
+883,29,BA,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1827.83
+884,29,BA,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,1800055.0
+885,29,BA,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,3257581269.0
+886,29,BA,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1951.9
+887,29,BA,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,1808376.0
+888,29,BA,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,3521434489.0
+889,29,BA,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2008.58
+890,29,BA,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,1797610.0
+891,29,BA,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,3600165870.0
+892,29,BA,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2073.34
+893,29,BA,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,1772853.0
+894,29,BA,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,3775541552.0
+895,29,BA,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2165.88
+896,29,BA,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,1833993.0
+897,29,BA,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,3863515088.0
+898,29,BA,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2194.13
+899,29,BA,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,1851030.0
+900,29,BA,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,4033722725.0
+901,29,BA,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2249.67
+902,29,BA,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,1750294.0
+903,29,BA,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,4073054339.0
+904,29,BA,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,682.8
+905,29,BA,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,1839526.0
+906,29,BA,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1198976786.0
+907,29,BA,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1112.8
+908,29,BA,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,1868348.0
+909,29,BA,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2060549707.0
+910,29,BA,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3333.33
+911,29,BA,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,2513064.0
+912,29,BA,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,8433913988.0
+913,31,MG,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,810.08
+914,31,MG,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,756335.0
+915,31,MG,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,383931151.0
+916,31,MG,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,739.96
+917,31,MG,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,998011.0
+918,31,MG,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,618983057.0
+919,31,MG,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,693.32
+920,31,MG,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,1128261.0
+921,31,MG,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,752171755.0
+922,31,MG,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,756.12
+923,31,MG,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,1080823.0
+924,31,MG,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,828553498.0
+925,31,MG,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,897.86
+926,31,MG,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,992739.0
+927,31,MG,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,937274637.0
+928,31,MG,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,969.73
+929,31,MG,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,1117946.0
+930,31,MG,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1046437741.0
+931,31,MG,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1051.88
+932,31,MG,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,1135715.0
+933,31,MG,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1189570569.0
+934,31,MG,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1266.16
+935,31,MG,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,1159259.0
+936,31,MG,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1439147557.0
+937,31,MG,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1493.94
+938,31,MG,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,1197240.0
+939,31,MG,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1748030913.0
+940,31,MG,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1686.25
+941,31,MG,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,1177574.0
+942,31,MG,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1964722416.0
+943,31,MG,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1801.07
+944,31,MG,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,1143020.0
+945,31,MG,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2086335876.0
+946,31,MG,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1850.51
+947,31,MG,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,1119274.0
+948,31,MG,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2077553149.0
+949,31,MG,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1915.76
+950,31,MG,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,1061912.0
+951,31,MG,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2086034173.0
+952,31,MG,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2011.13
+953,31,MG,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,1058121.0
+954,31,MG,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2076481563.0
+955,31,MG,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2087.83
+956,31,MG,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,1052153.0
+957,31,MG,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2196128773.0
+958,31,MG,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2176.49
+959,31,MG,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,970642.0
+960,31,MG,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2223067226.0
+961,31,MG,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,725.12
+962,31,MG,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,1075746.0
+963,31,MG,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,729067527.0
+964,31,MG,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1147.52
+965,31,MG,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,1135284.0
+966,31,MG,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1284374073.0
+967,31,MG,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3393.3
+968,31,MG,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,1605805.0
+969,31,MG,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,5470468153.0
+970,32,ES,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,791.5
+971,32,ES,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,120911.0
+972,32,ES,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,53086063.0
+973,32,ES,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,717.84
+974,32,ES,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,160836.0
+975,32,ES,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,98317794.0
+976,32,ES,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,680.26
+977,32,ES,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,191421.0
+978,32,ES,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,121944133.0
+979,32,ES,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,745.51
+980,32,ES,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,187927.0
+981,32,ES,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,140831600.0
+982,32,ES,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,887.33
+983,32,ES,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,171419.0
+984,32,ES,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,161518145.0
+985,32,ES,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,970.4
+986,32,ES,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,190428.0
+987,32,ES,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,180269180.0
+988,32,ES,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1058.12
+989,32,ES,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,189983.0
+990,32,ES,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,198301764.0
+991,32,ES,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1278.34
+992,32,ES,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,192322.0
+993,32,ES,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,241486561.0
+994,32,ES,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1474.34
+995,32,ES,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,201274.0
+996,32,ES,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,287678836.0
+997,32,ES,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1595.3
+998,32,ES,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,201671.0
+999,32,ES,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,316338586.0
+1000,32,ES,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1708.55
+1001,32,ES,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,190049.0
+1002,32,ES,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,333798747.0
+1003,32,ES,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1767.14
+1004,32,ES,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,194552.0
+1005,32,ES,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,334285664.0
+1006,32,ES,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1833.79
+1007,32,ES,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,180737.0
+1008,32,ES,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,337111276.0
+1009,32,ES,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1930.76
+1010,32,ES,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,167790.0
+1011,32,ES,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,323442734.0
+1012,32,ES,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2026.29
+1013,32,ES,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,180257.0
+1014,32,ES,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,355763578.0
+1015,32,ES,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2096.17
+1016,32,ES,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,168028.0
+1017,32,ES,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,372317033.0
+1018,32,ES,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,678.47
+1019,32,ES,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,196264.0
+1020,32,ES,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,119011311.0
+1021,32,ES,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1065.17
+1022,32,ES,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,205770.0
+1023,32,ES,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,215820067.0
+1024,32,ES,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3433.17
+1025,32,ES,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,300301.0
+1026,32,ES,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1038701583.0
+1027,33,RJ,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,814.23
+1028,33,RJ,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,196330.0
+1029,33,RJ,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,81974775.0
+1030,33,RJ,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,746.96
+1031,33,RJ,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,302733.0
+1032,33,RJ,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,180508538.0
+1033,33,RJ,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,701.39
+1034,33,RJ,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,441667.0
+1035,33,RJ,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,270666179.0
+1036,33,RJ,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,775.89
+1037,33,RJ,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,494051.0
+1038,33,RJ,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,360983781.0
+1039,33,RJ,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,929.21
+1040,33,RJ,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,498378.0
+1041,33,RJ,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,469944175.0
+1042,33,RJ,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1019.44
+1043,33,RJ,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,658726.0
+1044,33,RJ,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,617267928.0
+1045,33,RJ,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1101.15
+1046,33,RJ,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,685301.0
+1047,33,RJ,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,743584718.0
+1048,33,RJ,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1296.17
+1049,33,RJ,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,735821.0
+1050,33,RJ,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,913166606.0
+1051,33,RJ,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1520.1
+1052,33,RJ,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,789827.0
+1053,33,RJ,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1161814934.0
+1054,33,RJ,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1726.78
+1055,33,RJ,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,852237.0
+1056,33,RJ,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1402859286.0
+1057,33,RJ,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1843.54
+1058,33,RJ,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,827847.0
+1059,33,RJ,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1549328023.0
+1060,33,RJ,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1885.56
+1061,33,RJ,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,849412.0
+1062,33,RJ,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1577744916.0
+1063,33,RJ,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1952.14
+1064,33,RJ,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,804641.0
+1065,33,RJ,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1588104562.0
+1066,33,RJ,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2064.08
+1067,33,RJ,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,812699.0
+1068,33,RJ,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1606282595.0
+1069,33,RJ,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2123.28
+1070,33,RJ,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,875367.0
+1071,33,RJ,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1780907356.0
+1072,33,RJ,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2209.01
+1073,33,RJ,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,818580.0
+1074,33,RJ,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1900008051.0
+1075,33,RJ,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,704.57
+1076,33,RJ,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,940502.0
+1077,33,RJ,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,590729380.0
+1078,33,RJ,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1081.11
+1079,33,RJ,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,977458.0
+1080,33,RJ,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1041862954.0
+1081,33,RJ,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3335.36
+1082,33,RJ,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,1772669.0
+1083,33,RJ,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,6068248994.0
+1084,35,SP,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,766.44
+1085,35,SP,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,657099.0
+1086,35,SP,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,305756614.0
+1087,35,SP,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,708.71
+1088,35,SP,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,863799.0
+1089,35,SP,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,522327522.0
+1090,35,SP,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,669.05
+1091,35,SP,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,1114328.0
+1092,35,SP,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,673244889.0
+1093,35,SP,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,732.08
+1094,35,SP,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,1085233.0
+1095,35,SP,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,793164049.0
+1096,35,SP,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,867.52
+1097,35,SP,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,974803.0
+1098,35,SP,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,910879065.0
+1099,35,SP,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,946.93
+1100,35,SP,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,1138129.0
+1101,35,SP,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1055782881.0
+1102,35,SP,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1029.41
+1103,35,SP,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,1174844.0
+1104,35,SP,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1145282091.0
+1105,35,SP,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1245.56
+1106,35,SP,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,1215984.0
+1107,35,SP,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1493753207.0
+1108,35,SP,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1461.87
+1109,35,SP,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,1254284.0
+1110,35,SP,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1785146440.0
+1111,35,SP,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1625.22
+1112,35,SP,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,1366553.0
+1113,35,SP,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2103544648.0
+1114,35,SP,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1759.56
+1115,35,SP,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,1327024.0
+1116,35,SP,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2334973894.0
+1117,35,SP,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1799.36
+1118,35,SP,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,1454858.0
+1119,35,SP,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2500827660.0
+1120,35,SP,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1840.84
+1121,35,SP,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,1466681.0
+1122,35,SP,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2682409405.0
+1123,35,SP,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1917.9
+1124,35,SP,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,1535364.0
+1125,35,SP,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2806387560.0
+1126,35,SP,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1963.69
+1127,35,SP,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,1576967.0
+1128,35,SP,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,3047820940.0
+1129,35,SP,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2049.88
+1130,35,SP,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,1378331.0
+1131,35,SP,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,3078050973.0
+1132,35,SP,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,704.22
+1133,35,SP,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,1600229.0
+1134,35,SP,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1012067368.0
+1135,35,SP,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1093.02
+1136,35,SP,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,1690533.0
+1137,35,SP,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1815440150.0
+1138,35,SP,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3416.5
+1139,35,SP,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,2531474.0
+1140,35,SP,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,8714363414.0
+1141,41,PR,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,754.09
+1142,41,PR,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,308754.0
+1143,41,PR,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,137030490.0
+1144,41,PR,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,681.26
+1145,41,PR,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,447186.0
+1146,41,PR,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,241775655.0
+1147,41,PR,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,644.72
+1148,41,PR,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,452172.0
+1149,41,PR,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,289350049.0
+1150,41,PR,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,716.67
+1151,41,PR,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,410885.0
+1152,41,PR,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,308815528.0
+1153,41,PR,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,854.59
+1154,41,PR,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,367247.0
+1155,41,PR,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,332727194.0
+1156,41,PR,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,907.75
+1157,41,PR,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,482335.0
+1158,41,PR,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,404945234.0
+1159,41,PR,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,983.82
+1160,41,PR,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,466607.0
+1161,41,PR,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,466013885.0
+1162,41,PR,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1221.22
+1163,41,PR,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,445208.0
+1164,41,PR,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,550938563.0
+1165,41,PR,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1440.28
+1166,41,PR,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,449794.0
+1167,41,PR,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,634769161.0
+1168,41,PR,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1576.88
+1169,41,PR,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,430182.0
+1170,41,PR,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,677018513.0
+1171,41,PR,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1678.58
+1172,41,PR,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,406918.0
+1173,41,PR,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,697127973.0
+1174,41,PR,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1718.91
+1175,41,PR,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,400103.0
+1176,41,PR,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,684076273.0
+1177,41,PR,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1763.38
+1178,41,PR,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,370796.0
+1179,41,PR,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,680975221.0
+1180,41,PR,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1822.41
+1181,41,PR,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,369533.0
+1182,41,PR,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,654542533.0
+1183,41,PR,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1882.43
+1184,41,PR,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,378634.0
+1185,41,PR,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,698130231.0
+1186,41,PR,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1962.34
+1187,41,PR,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,335494.0
+1188,41,PR,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,708673734.0
+1189,41,PR,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,673.75
+1190,41,PR,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,382870.0
+1191,41,PR,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,238788649.0
+1192,41,PR,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1048.77
+1193,41,PR,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,411359.0
+1194,41,PR,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,423297172.0
+1195,41,PR,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3447.64
+1196,41,PR,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,593565.0
+1197,41,PR,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2041412857.0
+1198,42,SC,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,788.13
+1199,42,SC,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,101247.0
+1200,42,SC,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,53334042.0
+1201,42,SC,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,711.12
+1202,42,SC,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,141744.0
+1203,42,SC,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,80969983.0
+1204,42,SC,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,666.24
+1205,42,SC,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,139098.0
+1206,42,SC,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,92786279.0
+1207,42,SC,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,730.53
+1208,42,SC,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,134704.0
+1209,42,SC,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,100078597.0
+1210,42,SC,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,865.82
+1211,42,SC,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,118648.0
+1212,42,SC,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,109394246.0
+1213,42,SC,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,930.45
+1214,42,SC,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,150685.0
+1215,42,SC,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,130377682.0
+1216,42,SC,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,994.95
+1217,42,SC,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,143700.0
+1218,42,SC,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,146604158.0
+1219,42,SC,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1240.07
+1220,42,SC,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,140961.0
+1221,42,SC,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,173824203.0
+1222,42,SC,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1508.44
+1223,42,SC,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,147043.0
+1224,42,SC,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,213981658.0
+1225,42,SC,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1678.82
+1226,42,SC,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,144651.0
+1227,42,SC,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,239764328.0
+1228,42,SC,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1787.44
+1229,42,SC,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,137970.0
+1230,42,SC,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,248631365.0
+1231,42,SC,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1821.06
+1232,42,SC,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,131525.0
+1233,42,SC,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,244021067.0
+1234,42,SC,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1876.84
+1235,42,SC,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,122594.0
+1236,42,SC,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,236043849.0
+1237,42,SC,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1959.19
+1238,42,SC,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,119702.0
+1239,42,SC,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,228290118.0
+1240,42,SC,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2029.89
+1241,42,SC,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,122176.0
+1242,42,SC,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,242028241.0
+1243,42,SC,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2112.52
+1244,42,SC,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,106298.0
+1245,42,SC,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,244093646.0
+1246,42,SC,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,790.28
+1247,42,SC,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,129436.0
+1248,42,SC,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,92839425.0
+1249,42,SC,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1227.34
+1250,42,SC,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,140293.0
+1251,42,SC,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,169100646.0
+1252,42,SC,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3498.59
+1253,42,SC,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,222425.0
+1254,42,SC,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,780689975.0
+1255,43,RS,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,778.63
+1256,43,RS,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,290660.0
+1257,43,RS,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,147172671.0
+1258,43,RS,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,717.96
+1259,43,RS,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,398132.0
+1260,43,RS,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,234033557.0
+1261,43,RS,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,687.74
+1262,43,RS,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,436169.0
+1263,43,RS,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,290873006.0
+1264,43,RS,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,764.08
+1265,43,RS,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,410540.0
+1266,43,RS,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,320167620.0
+1267,43,RS,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,911.65
+1268,43,RS,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,367631.0
+1269,43,RS,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,357820394.0
+1270,43,RS,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,987.74
+1271,43,RS,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,462966.0
+1272,43,RS,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,425434593.0
+1273,43,RS,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1072.12
+1274,43,RS,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,453761.0
+1275,43,RS,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,484177081.0
+1276,43,RS,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1280.18
+1277,43,RS,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,451438.0
+1278,43,RS,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,571783025.0
+1279,43,RS,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1499.42
+1280,43,RS,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,463519.0
+1281,43,RS,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,680500672.0
+1282,43,RS,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1677.82
+1283,43,RS,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,455421.0
+1284,43,RS,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,756838872.0
+1285,43,RS,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1787.82
+1286,43,RS,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,434715.0
+1287,43,RS,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,793729853.0
+1288,43,RS,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1829.56
+1289,43,RS,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,427939.0
+1290,43,RS,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,774663570.0
+1291,43,RS,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1868.03
+1292,43,RS,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,379234.0
+1293,43,RS,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,747126338.0
+1294,43,RS,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1941.08
+1295,43,RS,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,364325.0
+1296,43,RS,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,695069373.0
+1297,43,RS,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1987.87
+1298,43,RS,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,367805.0
+1299,43,RS,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,726181625.0
+1300,43,RS,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2066.14
+1301,43,RS,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,325960.0
+1302,43,RS,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,722094029.0
+1303,43,RS,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,731.79
+1304,43,RS,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,378103.0
+1305,43,RS,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,253997881.0
+1306,43,RS,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1103.13
+1307,43,RS,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,402266.0
+1308,43,RS,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,437367786.0
+1309,43,RS,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3414.47
+1310,43,RS,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,603049.0
+1311,43,RS,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,2064185457.0
+1312,50,MS,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,811.79
+1313,50,MS,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,32588.0
+1314,50,MS,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,24333175.0
+1315,50,MS,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,736.8
+1316,50,MS,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,85098.0
+1317,50,MS,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,40149515.0
+1318,50,MS,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,663.3
+1319,50,MS,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,114876.0
+1320,50,MS,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,69110530.0
+1321,50,MS,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,744.23
+1322,50,MS,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,112212.0
+1323,50,MS,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,83533451.0
+1324,50,MS,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,901.27
+1325,50,MS,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,102433.0
+1326,50,MS,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,97638440.0
+1327,50,MS,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,980.49
+1328,50,MS,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,127768.0
+1329,50,MS,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,116685417.0
+1330,50,MS,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1072.64
+1331,50,MS,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,132887.0
+1332,50,MS,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,137463646.0
+1333,50,MS,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1297.26
+1334,50,MS,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,134697.0
+1335,50,MS,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,172729331.0
+1336,50,MS,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1546.57
+1337,50,MS,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,142249.0
+1338,50,MS,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,213096228.0
+1339,50,MS,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1757.92
+1340,50,MS,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,147021.0
+1341,50,MS,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,246093588.0
+1342,50,MS,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1862.86
+1343,50,MS,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,145224.0
+1344,50,MS,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,273993441.0
+1345,50,MS,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1923.41
+1346,50,MS,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,142530.0
+1347,50,MS,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,270739842.0
+1348,50,MS,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1977.34
+1349,50,MS,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,131258.0
+1350,50,MS,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,270769971.0
+1351,50,MS,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2041.45
+1352,50,MS,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,126263.0
+1353,50,MS,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,256968630.0
+1354,50,MS,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2074.72
+1355,50,MS,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,129969.0
+1356,50,MS,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,262789220.0
+1357,50,MS,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2159.87
+1358,50,MS,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,114397.0
+1359,50,MS,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,265004044.0
+1360,50,MS,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,762.24
+1361,50,MS,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,130468.0
+1362,50,MS,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,90685524.0
+1363,50,MS,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1147.01
+1364,50,MS,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,133826.0
+1365,50,MS,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,152299736.0
+1366,50,MS,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3506.21
+1367,50,MS,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,204535.0
+1368,50,MS,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,719949335.0
+1369,51,MT,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,811.13
+1370,51,MT,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,82116.0
+1371,51,MT,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,34214302.0
+1372,51,MT,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,719.28
+1373,51,MT,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,118663.0
+1374,51,MT,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,68696039.0
+1375,51,MT,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,666.2
+1376,51,MT,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,136495.0
+1377,51,MT,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,87247463.0
+1378,51,MT,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,745.39
+1379,51,MT,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,132798.0
+1380,51,MT,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,99881208.0
+1381,51,MT,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,894.88
+1382,51,MT,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,121703.0
+1383,51,MT,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,114421367.0
+1384,51,MT,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,975.36
+1385,51,MT,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,166456.0
+1386,51,MT,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,145158195.0
+1387,51,MT,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1053.37
+1388,51,MT,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,167693.0
+1389,51,MT,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,176342099.0
+1390,51,MT,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1297.07
+1391,51,MT,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,172094.0
+1392,51,MT,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,217803350.0
+1393,51,MT,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1522.3
+1394,51,MT,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,184686.0
+1395,51,MT,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,270874506.0
+1396,51,MT,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1700.0
+1397,51,MT,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,188003.0
+1398,51,MT,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,308678235.0
+1399,51,MT,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1809.44
+1400,51,MT,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,186272.0
+1401,51,MT,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,339085825.0
+1402,51,MT,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1856.22
+1403,51,MT,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,179646.0
+1404,51,MT,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,335158679.0
+1405,51,MT,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1888.86
+1406,51,MT,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,164105.0
+1407,51,MT,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,324306460.0
+1408,51,MT,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1939.99
+1409,51,MT,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,161477.0
+1410,51,MT,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,307513747.0
+1411,51,MT,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1961.32
+1412,51,MT,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,162263.0
+1413,51,MT,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,312445627.0
+1414,51,MT,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2027.92
+1415,51,MT,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,142557.0
+1416,51,MT,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,310199236.0
+1417,51,MT,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,715.17
+1418,51,MT,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,161686.0
+1419,51,MT,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,106724568.0
+1420,51,MT,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1042.14
+1421,51,MT,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,167170.0
+1422,51,MT,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,172532558.0
+1423,51,MT,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3519.99
+1424,51,MT,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,255277.0
+1425,51,MT,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,905124785.0
+1426,52,GO,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,777.57
+1427,52,GO,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,135758.0
+1428,52,GO,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,58238560.0
+1429,52,GO,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,679.42
+1430,52,GO,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,186866.0
+1431,52,GO,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,106621230.0
+1432,52,GO,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,638.0
+1433,52,GO,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,259524.0
+1434,52,GO,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,149106549.0
+1435,52,GO,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,718.97
+1436,52,GO,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,260368.0
+1437,52,GO,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,186427926.0
+1438,52,GO,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,866.26
+1439,52,GO,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,245268.0
+1440,52,GO,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,222049352.0
+1441,52,GO,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,952.68
+1442,52,GO,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,305949.0
+1443,52,GO,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,271603489.0
+1444,52,GO,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1052.23
+1445,52,GO,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,326084.0
+1446,52,GO,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,333388973.0
+1447,52,GO,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1267.96
+1448,52,GO,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,333515.0
+1449,52,GO,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,417281223.0
+1450,52,GO,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1483.54
+1451,52,GO,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,348375.0
+1452,52,GO,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,503670231.0
+1453,52,GO,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1648.87
+1454,52,GO,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,340341.0
+1455,52,GO,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,558431404.0
+1456,52,GO,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1761.05
+1457,52,GO,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,336606.0
+1458,52,GO,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,594572492.0
+1459,52,GO,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1787.69
+1460,52,GO,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,323558.0
+1461,52,GO,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,584285989.0
+1462,52,GO,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1803.3
+1463,52,GO,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,306444.0
+1464,52,GO,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,573519217.0
+1465,52,GO,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1818.0
+1466,52,GO,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,308326.0
+1467,52,GO,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,558471387.0
+1468,52,GO,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1844.32
+1469,52,GO,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,308885.0
+1470,52,GO,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,566468568.0
+1471,52,GO,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1903.69
+1472,52,GO,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,277003.0
+1473,52,GO,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,561117247.0
+1474,52,GO,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,635.8
+1475,52,GO,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,305149.0
+1476,52,GO,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,183717365.0
+1477,52,GO,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,905.0
+1478,52,GO,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,314759.0
+1479,52,GO,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,282115516.0
+1480,52,GO,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3456.16
+1481,52,GO,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,489939.0
+1482,52,GO,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,1700919725.0
+1483,53,DF,2004,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,750.59
+1484,53,DF,2004,Assistência Social,Bolsa Família,Famílias beneficiárias,41943.0
+1485,53,DF,2004,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,14316545.0
+1486,53,DF,2005,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,658.3
+1487,53,DF,2005,Assistência Social,Bolsa Família,Famílias beneficiárias,54159.0
+1488,53,DF,2005,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,24250048.0
+1489,53,DF,2006,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,667.56
+1490,53,DF,2006,Assistência Social,Bolsa Família,Famílias beneficiárias,85725.0
+1491,53,DF,2006,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,46467670.0
+1492,53,DF,2007,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,728.01
+1493,53,DF,2007,Assistência Social,Bolsa Família,Famílias beneficiárias,78294.0
+1494,53,DF,2007,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,59543149.0
+1495,53,DF,2008,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,851.79
+1496,53,DF,2008,Assistência Social,Bolsa Família,Famílias beneficiárias,76414.0
+1497,53,DF,2008,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,65316680.0
+1498,53,DF,2009,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,948.12
+1499,53,DF,2009,Assistência Social,Bolsa Família,Famílias beneficiárias,76327.0
+1500,53,DF,2009,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,74411196.0
+1501,53,DF,2010,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,977.9
+1502,53,DF,2010,Assistência Social,Bolsa Família,Famílias beneficiárias,98552.0
+1503,53,DF,2010,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,74719218.0
+1504,53,DF,2011,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1081.63
+1505,53,DF,2011,Assistência Social,Bolsa Família,Famílias beneficiárias,77591.0
+1506,53,DF,2011,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,98903976.0
+1507,53,DF,2012,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1337.53
+1508,53,DF,2012,Assistência Social,Bolsa Família,Famílias beneficiárias,99950.0
+1509,53,DF,2012,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,117744390.0
+1510,53,DF,2013,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1517.22
+1511,53,DF,2013,Assistência Social,Bolsa Família,Famílias beneficiárias,93272.0
+1512,53,DF,2013,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,136882148.0
+1513,53,DF,2014,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1645.37
+1514,53,DF,2014,Assistência Social,Bolsa Família,Famílias beneficiárias,86524.0
+1515,53,DF,2014,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,147613782.0
+1516,53,DF,2015,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1715.45
+1517,53,DF,2015,Assistência Social,Bolsa Família,Famílias beneficiárias,93961.0
+1518,53,DF,2015,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,149440066.0
+1519,53,DF,2016,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1787.3
+1520,53,DF,2016,Assistência Social,Bolsa Família,Famílias beneficiárias,87255.0
+1521,53,DF,2016,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,150499707.0
+1522,53,DF,2017,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1896.67
+1523,53,DF,2017,Assistência Social,Bolsa Família,Famílias beneficiárias,79206.0
+1524,53,DF,2017,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,151730592.0
+1525,53,DF,2018,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2006.68
+1526,53,DF,2018,Assistência Social,Bolsa Família,Famílias beneficiárias,72535.0
+1527,53,DF,2018,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,153313408.0
+1528,53,DF,2019,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,2135.28
+1529,53,DF,2019,Assistência Social,Bolsa Família,Famílias beneficiárias,66683.0
+1530,53,DF,2019,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,150125272.0
+1531,53,DF,2020,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,726.71
+1532,53,DF,2020,Assistência Social,Bolsa Família,Famílias beneficiárias,83939.0
+1533,53,DF,2020,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,52175244.0
+1534,53,DF,2021,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,1084.31
+1535,53,DF,2021,Assistência Social,Bolsa Família,Famílias beneficiárias,90980.0
+1536,53,DF,2021,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,95708645.0
+1537,53,DF,2023,Assistência Social,Bolsa Família,Benefício médio recebido pelas famílias do Bolsa Família,3473.87
+1538,53,DF,2023,Assistência Social,Bolsa Família,Famílias beneficiárias,168633.0
+1539,53,DF,2023,Assistência Social,Bolsa Família,Valor Total Repassado do Bolsa Família,593352055.0
